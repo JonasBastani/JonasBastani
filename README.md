@@ -4,9 +4,9 @@
 Sou estudante bacharel em Sistemas de Informação, estou no 8° período e atualmente trabalho na área de desenvolvimento. 
 
 - 🔭 Atualmente estou trabalhando no desenvolvimento de aplicações web e mobile (PHP, JavaScript, Angular, mySql); 
-- 🌱 Atualmente estou trabalhando e aperfeiçoando minhas habilidades com os frameworks Ionic e o Codeigniter.
-- 👯 Estou disposto colaborar com qualquer projeto que facilite a vida das pessoas.
-- 📫 Meu Linkedin: https://www.linkedin.com/in/jonas-bastani-31b182211
+- 🌱 Atualmente estou trabalhando e aperfeiçoando minhas habilidades com os frameworks Ionic e o Codeigniter;
+- 👯 Estou disposto colaborar com qualquer projeto que facilite a vida das pessoas;
+- 📫 Meu Linkedin: https://www.linkedin.com/in/jonas-bastani-31b182211.
 
 
 
